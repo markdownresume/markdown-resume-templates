@@ -138,7 +138,6 @@ Technical and soft skills
 
 - [MarkdownResume.app](https://markdownresume.app) - Instant markdown to PDF conversion
 - [Markdown Guide](https://www.markdownguide.org/) - Learn markdown syntax
-- [Resume Writing Tips](https://markdownresume.app/guides) - Professional resume advice
 
 ## 📜 License
 
